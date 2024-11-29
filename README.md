@@ -34,4 +34,4 @@ Antes de começar, certifique-se de ter instalado:
 1. **Clone o repositório**:
 
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/kaiocandido/Home-page-Instagram
