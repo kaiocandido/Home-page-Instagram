@@ -2,6 +2,7 @@
 
 Este projeto é um clone da homepage do Instagram, desenvolvido com **React**, **Vite** e **Styled Components**. Ele foi criado com o objetivo de melhorar habilidades em desenvolvimento frontend, organização de componentes e design responsivo.
 
+<a href="https://home-page-instagram-gilt.vercel.app/">Site</a>
 ---
 
 ## 🛠️ Tecnologias Utilizadas
@@ -29,6 +30,8 @@ Antes de começar, certifique-se de ter instalado:
 ---
 
 ## 🔧 Como executar o projeto
+
+- yarn dev
 
 1. **Clone o repositório**:
 
