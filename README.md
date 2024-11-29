@@ -24,7 +24,6 @@ Este projeto é um clone da homepage do Instagram, desenvolvido com **React**, *
 
 Antes de começar, certifique-se de ter instalado:
 
-- [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/)
 
 ---
